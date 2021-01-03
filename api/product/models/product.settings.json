@@ -57,6 +57,9 @@
     },
     "serving": {
       "type": "string"
+    },
+    "ingredients": {
+      "type": "richtext"
     }
   }
 }
